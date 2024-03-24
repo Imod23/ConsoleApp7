@@ -8,7 +8,7 @@ namespace ConsoleApp6
 {
     internal class Student
     {
-
+       
         public int StudentIndex { get; set; }
         public string StudentName { get; set; }
 

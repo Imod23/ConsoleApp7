@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Student student1 = new Student(001, "Nimal", "Gampaha", 56);
-            Student student2 = new Student(002, "Nimali", "Gampola", 66);
+            Student student02 new Student(002, "Nimali", "Gampola", 66);
 
 
             student1.Address = "Kandy";
